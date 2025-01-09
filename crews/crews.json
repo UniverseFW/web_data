@@ -1,0 +1,72 @@
+[
+    {
+        "avatar": "https://i.imgur.com/9Rm3r6X.png",
+        "link": "https://www.facebook.com/",
+        "name": "John Doe",
+        "role": "CEO",
+        "about": "As a proud founder of URP, I bear the responsibility for pretty much every aspect of our community and development operations."
+    },
+    {
+        "avatar": "https://i.imgur.com/9Rm3r6X.png",
+        "link": "https://www.facebook.com/",
+        "name": "Jane Smith",
+        "role": "CTO",
+        "about": "As the CTO of URP, I oversee all technical aspects and ensure our technology strategy aligns with our business goals."
+    },
+    {
+        "avatar": "https://i.imgur.com/9Rm3r6X.png",
+        "link": "https://www.facebook.com/",
+        "name": "Alice Johnson",
+        "role": "CFO",
+        "about": "As the CFO, I manage the financial actions of URP, including tracking cash flow and financial planning."
+    },
+    {
+        "avatar": "https://i.imgur.com/9Rm3r6X.png",
+        "link": "https://www.facebook.com/",
+        "name": "Bob Brown",
+        "role": "COO",
+        "about": "As the COO, I am responsible for the daily operations of URP, ensuring everything runs smoothly and efficiently."
+    },
+    {
+        "avatar": "https://i.imgur.com/9Rm3r6X.png",
+        "link": "https://www.facebook.com/",
+        "name": "Charlie Davis",
+        "role": "CMO",
+        "about": "As the CMO, I lead the marketing efforts of URP, driving brand awareness and customer engagement."
+    },
+    {
+        "avatar": "https://i.imgur.com/9Rm3r6X.png",
+        "link": "https://www.facebook.com/",
+        "name": "Diana Evans",
+        "role": "HR Manager",
+        "about": "As the HR Manager, I oversee the recruitment, training, and development of our team members."
+    },
+    {
+        "avatar": "https://i.imgur.com/9Rm3r6X.png",
+        "link": "https://www.facebook.com/",
+        "name": "Ethan Foster",
+        "role": "Lead Developer",
+        "about": "As the Lead Developer, I guide the development team in creating innovative solutions and maintaining our software products."
+    },
+    {
+        "avatar": "https://i.imgur.com/9Rm3r6X.png",
+        "link": "https://www.facebook.com/",
+        "name": "Fiona Green",
+        "role": "Product Manager",
+        "about": "As the Product Manager, I oversee the development and delivery of our products, ensuring they meet customer needs."
+    },
+    {
+        "avatar": "https://i.imgur.com/9Rm3r6X.png",
+        "link": "https://www.facebook.com/",
+        "name": "George Harris",
+        "role": "UX Designer",
+        "about": "As the UX Designer, I focus on creating user-friendly interfaces and improving the overall user experience."
+    },
+    {
+        "avatar": "https://i.imgur.com/9Rm3r6X.png",
+        "link": "https://www.facebook.com/",
+        "name": "Hannah Lee",
+        "role": "QA Engineer",
+        "about": "As the QA Engineer, I ensure the quality of our products by conducting thorough testing and identifying any issues."
+    }
+]
