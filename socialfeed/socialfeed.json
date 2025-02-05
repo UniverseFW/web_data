@@ -1,29 +1,28 @@
 {
-    "feed": [
-      {
-        "image": "https://i.postimg.cc/BvGbZLhf/1.webp",
-        "time": "January 3, 2025",
-        "message": "“The greatest thing about being a police couple is knowing that no matter what happens, you have each other’s back—on duty and off.”",
-        "hashtags": ["#policecouple", "#thinblueline", "#policefamily", "#policeofficer", "#police"]
-      },
-      {
-        "image": "https://i.postimg.cc/05d1hWV8/2.webp",
-        "time": "January 3, 2025",
-        "message": "“Adopt the pace of nature: her secret is patience.”",
-        "hashtags": ["#EMS", "", "#policefamily", "#policeofficer", "#police"]
-      },
-      {
-        "image": "https://i.postimg.cc/Qx8ZDQzc/3.webp",
-        "time": "January 3, 2025",
-        "message": "“The bond between officers isn’t just forged by the badge; it’s built on the moments when only we understand what it takes to protect and serve.“",
-        "hashtags": ["#policecouple", "#thinblueline", "#policefamily", "#policeofficer", "#police"]
-      },
-      {
-        "image": "https://i.postimg.cc/nhWyq6h1/4.webp",
-        "time": "January 3, 2025",
-        "message": "“We may work long hours and face tough days, but our love is the medicine that keeps us going.”",
-        "hashtags": ["#EMS", "", "#policefamily", "#policeofficer", "#police"]
-      }
-    ]
-  }
-  
+  "feed": [
+    {
+      "image": "https://i.postimg.cc/BvGbZLhf/1.webp",
+      "time": "January 3, 2025",
+      "message": "The greatest thing about being a police couple is knowing that no matter what happens, you have each other’s back—on duty and off.",
+      "hashtags": ["#LifeInUniverse","#DutyAndDevotion", "#ThinBlueLineRP", "#PoliceFamily", "#BadgeBond", "#ProtectAndServe"]
+    },
+    {
+      "image": "https://i.postimg.cc/05d1hWV8/2.webp",
+      "time": "January 3, 2025",
+      "message": "Adopt the pace of nature: her secret is patience.",
+      "hashtags": ["#LifeInUniverse", "#NatureInRP", "#SereneDuty", "#FirstResponderLife", "#CalmUnderPressure", "#RPImmersion"]
+    },
+    {
+      "image": "https://i.postimg.cc/Qx8ZDQzc/3.webp",
+      "time": "January 3, 2025",
+      "message": "The bond between first responders isn’t just forged by the uniform; it’s built on the moments when only we understand what it takes to save lives and stand strong together.",
+      "hashtags": ["#LifeInUniverse", "#LifesaverBond", "#EMSUnity", "#FirstResponderRP", "#EmergencyHeroes", "#HealAndProtect"]
+    },
+    {
+      "image": "https://i.postimg.cc/nhWyq6h1/4.webp",
+      "time": "January 3, 2025",
+      "message": "True strength isn’t just about enforcing the law—it’s about standing together, lifting each other up, and finding unity in every challenge we face.",
+      "hashtags": ["#LifeInUniverse", "#VictoryInUnity", "#ThinBlueLineStrong", "#BrothersInBlue", "#PoliceUnity", "#ServeWithHonor"]
+    }    
+  ]
+}
