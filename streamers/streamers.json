@@ -1,11 +1,12 @@
 {
     "streamer": [
       {
-        "name": "OfficerJen",
-        "tag": "OfficerJen",
-        "image": "https://i.postimg.cc/BvGbZLhf/1.webp",
-        "link": "https://www.twitch.tv/OfficerJen",
-        "icon": "facebook"
+        "name": "fr4gout",
+        "tag": "streamer",
+        "avatar": "https://i.postimg.cc/85GfPXM1/407408645-725744259603070-4985489846007938253-n.jpg",
+        "link": "https://www.facebook.com/fr4gout",
+        "icon": "facebook",
+        "platfrom": "facebook"
       }
     ]
   }
