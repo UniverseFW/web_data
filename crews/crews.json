@@ -2,15 +2,15 @@
     "bg_image": "https://i.postimg.cc/yx3Hxhxz/l.png",
     "crews":[
         {
-            "avatar": "https://avatars.githubusercontent.com/u/55808925?s=400&u=296161ea8d48982976a573f15c3adf8bf5295433&v=4",
-            "link": "",
+            "avatar": "https://avatars.githubusercontent.com/u/55808925?v=4",
+            "link": "https://github.com/ARSSANTO",
             "name": "AR Santo",
             "role": "Project Manager",
             "about": "As a Project Manager, I oversee all aspects of our community and development operations, ensuring growth and efficiency."
         },
         {
             "avatar": "https://i.postimg.cc/05VwMFdC/118571529.jpg",
-            "link": "",
+            "link": "https://github.com/M4RFY",
             "name": "Marfy",
             "role": "Lead Developer",
             "about": "As a Lead Developer, I manage coding, optimize performance, and implement features to enhance the server."
