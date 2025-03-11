@@ -1,11 +1,11 @@
-[   
+[
     {
         "title": "General Rules",
-        "description": "Staying updated on any rule modifications on our website or Discord is your responsibility <br><br>Playing content that is protected by copyright (DMCA) is strictly prohibited. This includes copyrighted movies, music, and other protected materials. It is essential to respect the rights of content creators and obtain appropriate permissions from the rights holders before performing covers or using copyrighted content. Let's ensure that we maintain a lawful and respectful environment by adhering to these guidelines.<br><br><li>Your character needs to have a somewhat Realistic Name<br><br><li>Engaging in Erotic Roleplay (Universe Roleplay) is strictly prohibited within our community. This encompasses any form of explicit or sexually suggestive content, including the posting of nudity or lewd materials. <br><br>It is important to refrain from influencing or encouraging others to break the rules. Such behavior can have consequences, and you may receive a similar punishment for your actions. <br><br>Real-life events, including suicide roleplay, terrorism threats, pandemics, and mental illnesses, are strictly prohibited within the city. We prioritize the well-being and safety of our community members and strive to provide an enjoyable and inclusive environment. We kindly request that you refrain from incorporating or depicting such sensitive topics in your roleplay.",
-        "category":[
+        "description": "<h4 style=\"color:#D7263D;\">⚠️ Notice!  Staying updated on any rule modifications on our website or Discord is your responsibility</h4><br>Playing content that is protected by copyright (DMCA) is strictly prohibited. This includes copyrighted movies, music, and other protected materials. It is essential to respect the rights of content creators and obtain appropriate permissions from the rights holders before performing covers or using copyrighted content. Let's ensure that we maintain a lawful and respectful environment by adhering to these guidelines.<br><br>Engaging in Erotic Roleplay (Universe Roleplay) is strictly prohibited within our community. This encompasses any form of explicit or sexually suggestive content, including the posting of nudity or lewd materials. <br><br>It is important to refrain from influencing or encouraging others to break the rules. Such behavior can have consequences, and you may receive a similar punishment for your actions. <br><br>Real-life events, including suicide roleplay, terrorism threats, pandemics, and mental illnesses, are strictly prohibited within the city. We prioritize the well-being and safety of our community members and strive to provide an enjoyable and inclusive environment. We kindly request that you refrain from incorporating or depicting such sensitive topics in your roleplay. <br/> <br/>",
+        "category": [
             {
-                "title": "Introduction",
-                "description":"Staying updated on any rule modifications on our website or Discord is your responsibility <br><br>"
+                "title": "Getting Started",
+                "description": "<h4 style=\"color:#D7263D;\"> This Rules may help you to understand our community better, Please read them carefully.</h4> <br> <li>A working, quality mic is required <li> Your character needs to have a somewhat realistic name <li> Being toxic in Discord can have you removed from the community at any point in time (Crews/Management’s decision) <li> You can't use hate speech or slang <li>You can't talk after being unconscious. You must cooperate with the given situation whether you are in pain, hurt <br/>&nbsp;&nbsp;&nbsp;&nbsp; or unconscious. If you are knocked unconscious, you have to act as an injured person. You can't run or fight </br></br> <li> You must not carry or act toxically with a dead body. You can still take it to the hospital with good intentions <li> Participating in the same situation or location after being dead within 20 minutes is strictly prohibited <li> Doing 3rd party in a robbery, Code-Red, or any gang situation is prohibited <li> You must not share information about illegal processing with others or teach it to new players They have to </br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; figure it out on their own</br></br> <li> Exploiting bugs, using hacks, or using glitches/emotes to gain an advantage is not allowed <li> No one can escape or get shelter in a Green Zone or in any personally owned house while being in any situation <li> Fake hostages are not allowed (e.g., friends/own gang members pretending to be hostages) <li> Graphic mods—any type of graphic mod is allowed, but it needs to be authentic <br> &nbsp;&nbsp;&nbsp;&nbsp; No files can be altered other than those in the Mods and Plugins folders</br></br> <li> Disrespecting a person is not allowed <li> You cannot harass a girl. If found, it will lead to a permanent ban <li> Racism is strictly prohibited <li> Impersonating staff members is strictly prohibited <li>You cannot harass a girl. <strong style=\"color:#D7263D;\"> (If found, It Will lead to permanent ban) </strong> <li>Racism is strictly prohibited. </li> <h6 style=\"color:#D7263D;\"> Body Shaming:</h6> You are not allowed to disrespect or talk to an unconscious body as that leads to toxic roleplay. <br>For example: Burning a unconcious body,dumping bodies in the river,sea,ocean or lake. Pee/shit on a unconscious body. You can only call an ems or can take them to the nearest hospital.<br></br> <li>Rape/ pregnancy/suicide/encounter  rp is strictly prohibited.<li>Cop baiting is not allowed <li>Always respect and show cop fear in police situations. <li>Behave maturely and responsively with police/ems/mechanic during any situations.</li>"
             }
         ]
     },
@@ -13,13 +13,159 @@
         "title": "Cheating & Exploiting",
         "category": [
             {
-                "title": "Game Modifications, Cheating & Macros",
-                "description": "The use of game modifications and enhancements that provide players with unfair advantages, such as increased speed, no night visual packs, gumballs, health regeneration, teleportation, and other similar modifications, is strictly prohibited within our community. We prioritize fair gameplay and maintaining a level playing field for all members. Any player found cheating by using such modifications will face permanent banning without prior warning. We take cheating seriously to ensure an enjoyable and equitable gaming experience for all. Players are allowed to use visual enhancements or other game modifications that do not provide them with an unfair advantage or constitute cheating. These modifications should not give any player an unfair edge over others or disrupt the balance of gameplay. Additionally, binding keys to server commands or text messages for faster and more convenient access is permitted as long as it does not grant an unfair advantage.Macroing, which refers to the use of third-party software or hardware enhancements to automate actions, is strictly prohibited within our community. Engaging in macroing activities with the intent to gain a financial benefit or bypass AFK scripts is considered a bannable offense. Any property and experience obtained through macroing will be revoked. We maintain a fair and balanced gaming environment, and the use of macros undermines the integrity of the gameplay experience. Using no shadows is considered an unfair advantage so you must have shadows enabled."
+                "title": "Game Modifications",
+                "description": "<h4 style=\"color:#D7263D;\">The use of game modifications that provide players with unfair advantages is strictly prohibited within our community.</h4><li>Increased speed, no night visual packs, gumballs, health regeneration, teleportation, and similar modifications <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;are not allowed.</li><li>Visual enhancements or modifications that do not provide an unfair advantage are allowed.</li>"
+            },
+            {
+                "title": "Cheating",
+                "description": "<h4 style=\"color:#D7263D;\">Cheating is strictly prohibited and will result in severe consequences.</h4><li>Cheating through in-game exploits, unintended mechanics, or unauthorized modifications will result in a permanent ban without prior warning.</li><li>Using no shadows is considered an unfair advantage, so shadows must be enabled.</li><li>Binding keys to server commands or text messages for faster access is permitted as long as</br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; it does not grant an unfair advantage.</li>"
+            },
+            {
+                "title": "Macros",
+                "description": "<h4 style=\"color:#D7263D;\">Macroing (using third-party software or hardware to automate actions) is strictly prohibited.</h4><li>Using macros to gain financial benefits or bypass AFK scripts is a bannable offense,</br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; and any obtained property or experience will be revoked.</li><li>Macros that automate gameplay actions to give unfair advantages are not allowed.</li>"
+            },
+            {
+                "title": "Hacking & Unauthorized Exploits",
+                "description": "<h4 style=\"color:#D7263D;\">Hacking or using unauthorized exploits is strictly prohibited and will result in severe consequences.</h4><li>Using any kind of hacks, mod menus, or third-party software to gain an unfair advantage is strictly prohibited.</li><li>If a player is found using hacks or unauthorized exploits, he/she will receive a permanent ban from our server.</li><li>A banned player can appeal for unban after 7 days if the ban was for hacking or glitch abuse.</li><li>It will be up to the management to decide whether the player gets unbanned or not.</li>"
             },
             {
                 "title": "Exploiting Bugs",
-                "description": "Exploiting client or server bugs is strictly prohibited within our community. Engaging in such activities, including the abuse of exploits, will result in a ban from the server. Additionally, any benefits or items gained from exploiting will be promptly removed. Camping animal and vehicle spawns, where players repeatedly wait in a known spot for the specific purpose of exploiting their appearance, is considered a form of exploitation within our community. We encourage a more natural and immersive gameplay experience where encounters occur organically. Engaging in repetitive behavior solely for the purpose of exploiting spawns disrupts the intended balance and fairness of the game. We kindly request that players refrain from such practices and allow the game to unfold naturally, fostering a more dynamic and authentic environment for everyone. Circumventing the emote cooldown by using the F8 menu or any other method is not allowed."
+                "description": "<h4 style=\"color:#D7263D;\">Exploiting client or server bugs is strictly prohibited within our community.</h4><li>Engaging in any form of exploit abuse will result in a ban from the server.</li><li>Any benefits, items, or progress gained through exploits will be removed.</li><li>Camping animal and vehicle spawns to repeatedly exploit their appearance is not allowed.</li><li>Players should engage in natural gameplay instead of exploiting spawn mechanics.</li><li>Repeated exploit abuse disrupts game balance and fairness.</li><li>Circumventing the emote cooldown using the F8 menu or any other method is strictly prohibited.</li><br><h4 style=\"color:#FFD700;\">⚠️ If any player finds any bug/glitch, keep a POV and submit it to the bug report.</h4>"
             }
         ]
+    },
+    {
+        "title": "Zone Rules",
+        "description": "<h4 style=\"color:#FFA500;\">Understanding Zone Rules</h4><p>Our city is divided into different zones, each with its own set of regulations to ensure fair and immersive gameplay. Players must respect these zones and their rules to maintain balance and realism within the community.</p><p><b>⚠️ Violating zone rules can lead to strict penalties, including warnings, kicks, or bans.</b></p>",
+        "category": [
+            {
+                "title": "Green Zone",
+                "description": "<h4 style=\"color:#28A745;\"> Safe Areas</h4><p>Green Zones are designated safe areas where no hostile actions are allowed. Players must respect these zones to ensure a fair and peaceful gameplay experience.</p><li>Main Garage Only</li><li>Mechanics</li><li>Hospitals</li><li>Restaurants & Company</li><h4 style=\"color:#FFD700;\">⚠️ Important Note:</h4><li>You cannot harm, shoot, carry, or take hostage someone in Green Zones.</li><li>No toxicity – let people mind their own business.</li><li>Park your cars in a proper manner & avoid excessive horn use or burnouts.</li>"
+            },
+            {
+                "title": "Blue Zone",
+                "description": "<h4 style=\"color:#007BFF;\">Law Enforcement Areas</h4><p>Blue Zones are areas controlled by law enforcement agencies. Engaging in criminal activities within these areas may result in immediate consequences.</p><li>All Police Departments</li><li>Prison</li>"
+            },
+            {
+                "title": "Red Zone",
+                "description": "<h4 style=\"color:#DC3545;\">High-Risk Combat Areas</h4><p>Red Zones are highly dangerous areas where illegal activities occur. Players entering these zones should be prepared for potential conflict.</p><li>Red Zone includes Weed Farms and Weed, Coke, Meth, and Opium Factory/Processing.</li>"
+            }
+        ]
+    },
+    {
+        "title": "Basic Roleplay Rules",
+        "description": "This section outlines the basic rules that players must follow to ensure fair and immersive roleplay within our community. Please read them carefully and make sure to follow them at all times.",
+        "category": [
+            {
+                "title": "Civilian vs Civilian",
+                "description": "<ul><li><b>4v4 max on both sides.</b></li><li><b>Cooldown: 30 minutes.</b></li><li><b>Scamming RP is allowed</b>, except for weapon license scams.</li></ul>"
+            },
+            {
+                "title": "Drive-by",
+                "description": "<ul><li><b>In-city pitting is not allowed.</b></li><li><b>Outside the city pitting is allowed.</b></li><li><b>Drive-by is allowed</b> both in-city and outside the city.</li></ul>"
+            },
+            {
+                "title": "Character Progression",
+                "description": "<ul><li><b>Character progression in RP should be slow and realistic.</b></li><li>Progression should be based on in-character actions, skills, relationships, and experiences.</li><li>Avoid power gaming (forcing outcomes) or meta gaming (using out-of-character knowledge in RP).</li><li>Your progression should align with your character’s backstory, motivations, and the game world’s rules.</li><li>Progression should feel natural and earned.</li></ul>"
+            },
+            {
+                "title": "Multi-Character",
+                "description": "<ul><li><b>Multi-character is allowed on our server.</b></li><li>You cannot take more than one government job (e.g., no police and EMS/lawyer at the same time).</li><li>Each character must be created separately.</li><li>Mixing characters (e.g., transferring items from one character to another) will result in consequences:</li><ul><li>1st time: Verbal or written warning.</li><li>2nd time: Termination from the department.</li><li>3rd time: Both characters wiped.</li></ul></ul>"
+            },
+            {
+                "title": "Random Death Match (RDM)",
+                "description": "<ul><li><b>You cannot kill someone without a valid reason</b> or giving them a reasonable ultimatum.</li><li>RDM is prohibited.</li></ul>"
+            },
+            {
+                "title": "Vehicle Death Match (VDM)",
+                "description": "<ul><li><b>You cannot harm or kill someone with a vehicle without a valid reason.</b></li></ul>"
+            },
+            {
+                "title": "Looting",
+                "description": "<ul><li><b>Random looting is not allowed.</b></li><li>Only specific items can be looted as specified by server rules.</li></ul>"
+            },
+            {
+                "title": "Combat Logging",
+                "description": "<ul><li><b>You cannot disconnect from an RP situation without completing it.</b></li><li>Disconnecting during a police chase, custody, or while under police observation is not allowed, even if respawn is unavailable.</li></ul>"
+            },
+            {
+                "title": "Meta Gaming",
+                "description": "<ul><li><b>Meta gaming is prohibited.</b></li><li>Using out-of-character information in in-character situations is not allowed.</li><li>Communication outside of the game isn’t allowed.</li><li>Always use the in-game phone or radio.</li></ul>"
+            },
+            {
+                "title": "Power-Gaming",
+                "description": "<ul><li><b>Do not force actions on others or roleplay unrealistically.</b></li><li>Example: \"I instantly knock you out without resistance.\"</li><li>Using in-game scoreboard to locate a person hiding in a bush.</li></ul>"
+            },
+            {
+                "title": "Value Your Life",
+                "description": "<ul><li><b>Always prioritize your character’s safety.</b></li><li>Avoid reckless actions that disregard your life without proper context.</li></ul>"
+            },
+            {
+                "title": "Fear Role-Play",
+                "description": "<ul><li><b>Players must value their lives.</b></li><li>If someone has a gun to your head, comply with all demands.</li><li>Do not try to fight or escape.</li><li>Always value your vehicles, items, and assets in situations involving criminals.</li></ul>"
+            },
+            {
+                "title": "OOC (Out Of Character)",
+                "description": "<ul><li><b>IC (In Character) is not OOC.</b></li><li>Roleplay as your character and separate that from your real-life self.</li><li>IC actions are not related to the OOC player.</li></ul>"
+            },
+            {
+                "title": "Roleplay Everything",
+                "description": "<ul><li><b>Stay in character at all times.</b></li><li>Use /ooc only for necessary clarifications.</li></ul>"
+            },
+            {
+                "title": "Kidnapping",
+                "description": "<ul><li><b>Kidnapping cannot be done while sitting in a car and pointing a gun.</b></li><li>You must do it on foot or lure the person into your car with proper roleplay.</li><li>You need at least two people to kidnap one person.</li><li><b>On-duty EMS/Mechanics cannot be kidnapped.</b> However, you can kidnap them off-duty.</li><li>On-duty police can be kidnapped if 10 police officers are available.</li><li>Only one police officer can be kidnapped at a time.</li><li>Police can use full force to stop the kidnapping.</li></ul>"
+            },
+            {
+                "title": "Low Effort Roleplay",
+                "description": "<ul><li><b>Low-effort roleplay is prohibited.</b></li><li>Shooting someone without any prior warning.</li><li>Looting a player without providing enough roleplay for the situation.</li><li>Choosing not to show Fear RP when required.</li><li>Not continuing a situation properly.</li></ul>"
+            },
+            {
+                "title": "Traffic Stops",
+                "description": "<ul><li><b>During traffic stops, code red is not allowed.</b></li><li>Police will pull you over for traffic violations only.</li><li>They will not search your vehicle unless a criminal with a warrant is found.</li><li>A maximum of three units can respond to a 10-11 (traffic stop).</li></ul>"
+            },
+            {
+                "title": "Drug Sell",
+                "description": "<ul><li><b>During drug sales, code red is not allowed.</b></li><li>You can only try to escape.</li><li>If there is 1 criminal, 3 police will pursue.</li><li>If there are 2 criminals, 4 police will pursue.</li></ul>"
+            }
+        ]
+    },
+    {
+        "title": "Robbery Rules",
+        "description": "This section outlines the rules for various types of robberies. Ensure you follow these guidelines to maintain fair and immersive roleplay.",
+        "category": [
+            {
+                "title": "House Robbery",
+                "description": "<ul><li><b>Criminals:</b> 2 criminals</li><li><b>Police:</b> 2 minimum, backup/Code-red +1 police, for one-way Code-red +1 police</li><li><b>Hostage:</b> No need</li><li><b>Code red:</b> Allowed</li><li><b>Weapons:</b> Melee only (Level 1, 2, 3, and Class-S are not allowed)</li><li><b>Demand:</b> No demand</li></ul>"
+            },
+            {
+                "title": "Store Robbery",
+                "description": "<ul><li><b>Criminals:</b> 3 criminals</li><li><b>Police:</b> 3 minimum, backup/Code-red +1 police, for one-way Code-red +1 police</li><li><b>Hostage:</b> 1 Max</li><li><b>Code red:</b> Allowed</li><li><b>Weapons:</b> Class-1 only (Melee, Level 2, 3, and Class-S are not allowed)</li><li><b>Demand:</b> 2</li></ul>"
+            },
+            {
+                "title": "Fleeca Bank Robbery",
+                "description": "<ul><li><b>Criminals:</b> 4 criminals</li><li><b>Police:</b> 4 minimum, backup/Code-red +1 police, for one-way Code-red +1 police</li><li><b>Hostage:</b> 1 Max</li><li><b>Code red:</b> Allowed</li><li><b>Weapons:</b> Level 1, 2, 3, and Class-S are allowed (Melee not allowed)</li><li><b>Demand:</b> 2</li></ul>"
+            },
+            {
+                "title": "Maze Bank Robbery",
+                "description": "<ul><li><b>Criminals:</b> 5 criminals</li><li><b>Police:</b> 5 minimum, backup/Code-red +1 police, for one-way Code-red +1 police</li><li><b>Hostage:</b> 1 Max</li><li><b>Code red:</b> Allowed</li><li><b>Weapons:</b> Level 1, 2, 3, and Class-S are allowed (Melee not allowed)</li><li><b>Demand:</b> 2</li></ul>"
+            },
+            {
+                "title": "Vangelico Robbery",
+                "description": "<ul><li><b>Criminals:</b> 5 criminals</li><li><b>Police:</b> 5 minimum, backup/Code-red +1 police, for one-way Code-red +1 police</li><li><b>Hostage:</b> 1 Max</li><li><b>Code red:</b> Allowed</li><li><b>Weapons:</b> Level 2, 3, and Class-S are allowed (Melee and Level 1 not allowed)</li><li><b>Demand:</b> 2</li></ul>"
+            },
+            {
+                "title": "Paleto Bank Robbery",
+                "description": "<ul><li><b>Criminals:</b> 6 criminals</li><li><b>Police:</b> 6 minimum, backup/Code-red +1 police, for one-way Code-red +1 police</li><li><b>Hostage:</b> 1</li><li><b>Code red:</b> Allowed</li><li><b>Weapons:</b> Level 2, 3, and Class-S are allowed (Melee and Level 1 not allowed)</li><li><b>Demand:</b> 2</li></ul>"
+            },
+            {
+                "title": "Pacific Bank Robbery",
+                "description": "<ul><li><b>Criminals:</b> 8 criminals</li><li><b>Police:</b> 8 minimum, backup/Code-red +1 police, for one-way Code-red +1 police</li><li><b>Hostage:</b> 2 Max</li><li><b>Code red:</b> Allowed</li><li><b>Weapons:</b> Level 2, 3, and Class-S are allowed (Melee and Level 1 not allowed)</li><li><b>Demand:</b> 3</li></ul>"
+            }
+        ]
+    },
+    {
+        "title": "Rule Compliance & Updates",
+        "description": "<h4 style=\"color:#FF0039;\">Rule Compliance</h4><p>Players are expected to comply with the rules at all times to ensure a fair and enjoyable experience for everyone. Failure to follow the rules may result in warnings, kicks, or bans from the server.</p><h4 style=\"color:#FF0039;\">Rule Updates</h4><p>Our rules are subject to change and updates. Players are responsible for staying informed about any rule modifications or additions. It is essential to review the rules regularly to ensure compliance and avoid penalties.</p><h4 style=\"color:#FF0039;\">Final Thoughts and Important Reminders</h4><p>These rules are crucial in ensuring a fair and realistic roleplay experience. We hope the rules listed outline everything, but please keep in mind that our rules are subject to change anytime by Crew/Management. Staying updated on any rule modifications on our website or Discord is your responsibility.</p>"
     }
 ]
