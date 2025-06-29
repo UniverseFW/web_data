@@ -1,52 +1,52 @@
 {
-    "streamer": [
-      {
-        "name": "fr4gout_",
-        "tag": "streamer",
-        "avatar": "https://i.postimg.cc/85GfPXM1/407408645-725744259603070-4985489846007938253-n.jpg",
-        "link": "https://www.facebook.com/fr4gout",
-        "icon": "facebook",
-        "platfrom": "facebook"
-      },
-      {
-        "name": "SparkxGamingHub",
-        "tag": "streamer",
-        "avatar": "https://i.postimg.cc/d3pWhTFm/Sparkx.png",
-        "link": "https://www.facebook.com/Sparkxgaminghub/",
-        "icon": "facebook",
-        "platfrom": "facebook"
-      },
-      {
-        "name": "Raya Plays",
-        "tag": "streamer",
-        "avatar": "https://i.postimg.cc/8CM00KwQ/13.png",
-        "link": "https://www.facebook.com/rayaplays1/",
-        "icon": "facebook",
-        "platfrom": "facebook"
-      },
-      {
-        "name": "SubZeroGaming",
-        "tag": "streamer",
-        "avatar": "https://i.postimg.cc/Y0kmM91q/418848511-340915045532559-7593672675474278098-n.png",
-        "link": "https://www.facebook.com/SubZeroFB",
-        "icon": "facebook",
-        "platfrom": "facebook"
-      },
-      {
-        "name": "Shawon Here",
-        "tag": "streamer",
-        "avatar": "https://i.postimg.cc/htbH5pgk/1673794677693.png",
-        "link": "https://www.facebook.com/shawonhere0",
-        "icon": "facebook",
-        "platfrom": "facebook"
-      },
-      {
-        "name": "Trex Gaming Hub",
-        "tag": "streamer",
-        "avatar": "https://i.postimg.cc/NMLSLtTt/file-Aciq-Frw-Rdx-AXv-YX8-Uhm1-Vu.png",
-        "link": "https://www.facebook.com/profile.php?id=100063489164673",
-        "icon": "facebook",
-        "platfrom": "facebook"
-      }
-    ]
-  }
+	"streamer": [
+		{
+			"name": "UXoen",
+			"tag": "streamer",
+			"avatar": "https://i.postimg.cc/Jn1pNzzz/486334077-1141083624483538-46612860910794071-n.jpg",
+			"link": "https://www.facebook.com/UXoen/",
+			"icon": "facebook",
+			"platfrom": "facebook"
+		},
+		{
+			"name": "fr4gout_",
+			"tag": "streamer",
+			"avatar": "https://i.postimg.cc/85GfPXM1/407408645-725744259603070-4985489846007938253-n.jpg",
+			"link": "https://www.facebook.com/fr4gout",
+			"icon": "facebook",
+			"platfrom": "facebook"
+		},
+		{
+			"name": "Mickey",
+			"tag": "streamer",
+			"avatar": "https://i.postimg.cc/8Prmr6mb/485774311-679802114613321-5973206335439181082-n.jpg",
+			"link": "https://www.facebook.com/GamingAriyaf",
+			"icon": "facebook",
+			"platfrom": "facebook"
+		},
+		{
+			"name": "Shawon Here",
+			"tag": "streamer",
+			"avatar": "https://i.postimg.cc/htbH5pgk/1673794677693.png",
+			"link": "https://www.facebook.com/shawonhere0",
+			"icon": "facebook",
+			"platfrom": "facebook"
+		},
+		{
+			"name": "Trex Gaming Hub",
+			"tag": "streamer",
+			"avatar": "https://i.postimg.cc/NMLSLtTt/file-Aciq-Frw-Rdx-AXv-YX8-Uhm1-Vu.png",
+			"link": "https://www.facebook.com/profile.php?id=100063489164673",
+			"icon": "facebook",
+			"platfrom": "facebook"
+		},
+		{
+			"name": "It's Mendes",
+			"tag": "streamer",
+			"avatar": "https://i.postimg.cc/vH9SwjkM/314404813-474886927982721-4140641409128203153-n.jpg",
+			"link": "https://www.facebook.com/profile.php?id=100063842525278",
+			"icon": "facebook",
+			"platfrom": "facebook"
+		}
+	]
+}
