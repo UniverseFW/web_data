@@ -16,18 +16,18 @@
 			"about": "As a Lead Developer, I manage coding, optimize performance, and implement features to enhance the server."
 		},
 		{
-			"avatar": "https://i.postimg.cc/jS4wT15N/1000031535.jpg",
-			"link": "https://linktr.ee/fr4gout_",
-			"name": "fr4gout_",
-			"role": "Ui/UX Designer",
-			"about": "As a UI/UX Designer, I craft immersive, user-friendly interfaces to enhance the server experience."
-		},
-		{
 			"avatar": "https://i.postimg.cc/gjg8GB4N/465469117-1278965113290394-3886184553673527579-n.jpg",
 			"link": "https://www.instagram.com/trex_husam/?utm_source=ig_web_button_share_sheet",
 			"name": "Trex Husam",
 			"role": "Management & Clothes Dev",
 			"about": "As a Management Lead, I oversee operations, coordinate teams, and ensure the server runs smoothly and design custom clothing to enhance gameplay."
+		},
+		{
+			"avatar": "https://i.postimg.cc/Jn1pNzzz/486334077-1141083624483538-46612860910794071-n.jpg",
+			"link": "https://www.facebook.com/UXoen",
+			"name": "Uxoen",
+			"role": "Management",
+			"about": "As part of the management team, I oversee server operations, coordinate with teams, and ensure the server runs smoothly."
 		},
 		{
 			"avatar": "https://i.postimg.cc/zvhYr9J1/471615612-122108970710664462-3527334090496368457-n.jpg",
@@ -37,18 +37,18 @@
 			"about": "As a Marketing Manager, I develop strategies, promote the server, and engage the community to drive growth."
 		},
 		{
-			"avatar": "https://i.postimg.cc/Jn1pNzzz/486334077-1141083624483538-46612860910794071-n.jpg",
-			"link": "https://www.facebook.com/UXoen",
-			"name": "Uxoen",
-			"role": "Management",
-			"about": "As a Management Lead, I oversee operations, coordinate teams, and ensure the server runs smoothly and design custom clothing to enhance gameplay."
+			"avatar": "https://i.postimg.cc/jS4wT15N/1000031535.jpg",
+			"link": "https://linktr.ee/fr4gout_",
+			"name": "fr4gout_",
+			"role": "UI/UX Designer",
+			"about": "As a UI/UX Designer, I craft immersive, user-friendly interfaces to enhance the server experience."
 		},
 		{
 			"avatar": "https://i.postimg.cc/9MzpT52Y/412664904-304019125375375-855985463998382533-n.jpg",
 			"link": "https://www.instagram.com/itz_f4_farhan/",
 			"name": "Meta Prime",
-			"role": "Crew",
-			"about": "As part of the crew, I collaborate to maintain server operations, troubleshoot issues, and support growth."
+			"role": "Infra Team",
+			"about": "As part of the Infra Team, I manage server infrastructure, ensuring performance, security, and reliability."
 		},
 		{
 			"avatar": "https://i.postimg.cc/SRgNnBBY/IMG-20220313-024141.jpg",
