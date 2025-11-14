@@ -1,6 +1,6 @@
 [
 	{
-		"header": "Your Name & Age? (In Real Life)",
+		"header": "Basic Information Name & Age? (In Real Life)",
 		"input": [
 			[
 				{
@@ -10,7 +10,10 @@
 					"name": "first_name",
 					"validation": {
 						"pattern": "^[a-zA-Z]+$",
-						"length": { "min": 2, "max": 10 }
+						"length": {
+							"min": 2,
+							"max": 10
+						}
 					}
 				},
 				{
@@ -20,7 +23,10 @@
 					"name": "last_name",
 					"validation": {
 						"pattern": "^[a-zA-Z]+$",
-						"length": { "min": 2, "max": 10 }
+						"length": {
+							"min": 2,
+							"max": 10
+						}
 					}
 				}
 			],
@@ -31,32 +37,55 @@
 				"name": "age",
 				"validation": {
 					"pattern": "^[0-9]+$",
-					"value": { "min": 16, "max": 80 }
+					"value": {
+						"min": 16,
+						"max": 80
+					}
 				}
 			}
 		]
 	},
 	{
-		"header": "Describe the type of character you intend to create and role-play.",
+		"header": "What Kind of Character do you want to Role-play?",
 		"input": [
 			{
 				"type": "checkbox",
 				"required": true,
 				"name": "character_type",
 				"options": [
-					{ "label": "Govt. Job", "value": "govt" },
-					{ "label": "Civilian", "value": "civilian" },
-					{ "label": "Gangster", "value": "gangster" },
-					{ "label": "Other", "value": "other", "toggleReason": true }
+					{
+						"label": "Govt. Job",
+						"value": "govt"
+					},
+					{
+						"label": "Civilian",
+						"value": "civilian"
+					},
+					{
+						"label": "Gangster",
+						"value": "gangster"
+					},
+					{
+						"label": "Buiness Man",
+						"value": "business"
+					},
+					{
+						"label": "Other",
+						"value": "other",
+						"toggleReason": true
+					}
 				]
 			},
 			{
 				"type": "textarea",
-				"placeholder": "Explain your character background story (Min 50 words)",
-				"required": true,
+				"placeholder": "Explain your character background story (20-100 words) Note: This will help us understand your character better.",
+				"required": false,
 				"name": "character_background",
 				"validation": {
-					"length": { "min": 50, "max": 500 }
+					"length": {
+						"min": 20,
+						"max": 100
+					}
 				}
 			}
 		]
@@ -69,8 +98,14 @@
 				"required": true,
 				"name": "read_rules",
 				"options": [
-					{ "label": "Yes", "value": "yes" },
-					{ "label": "No", "value": "no" }
+					{
+						"label": "Yes",
+						"value": "yes"
+					},
+					{
+						"label": "No",
+						"value": "no"
+					}
 				]
 			}
 		]
@@ -83,11 +118,27 @@
 				"required": true,
 				"name": "source_of_info",
 				"options": [
-					{ "label": "Facebook", "value": "facebook" },
-					{ "label": "Youtube", "value": "youtube" },
-					{ "label": "Instagram", "value": "instagram" },
-					{ "label": "Friend/Relative", "value": "friend" },
-					{ "label": "Others", "value": "other", "toggleReason": true }
+					{
+						"label": "Facebook",
+						"value": "facebook"
+					},
+					{
+						"label": "Youtube",
+						"value": "youtube"
+					},
+					{
+						"label": "Instagram",
+						"value": "instagram"
+					},
+					{
+						"label": "Friend/Relative",
+						"value": "friend"
+					},
+					{
+						"label": "Others",
+						"value": "other",
+						"toggleReason": true
+					}
 				]
 			},
 			{
