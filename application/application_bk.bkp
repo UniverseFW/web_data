@@ -1,0 +1,175 @@
+[
+	{
+		"header": "Your Name & Age? (In Real Life)",
+		"input": [
+			[
+				{
+					"type": "text",
+					"placeholder": "First Name",
+					"required": true,
+					"name": "first_name",
+					"validation": {
+						"pattern": "^[a-zA-Z]+$",
+						"length": { "min": 3, "max": 20 }
+					}
+				},
+				{
+					"type": "text",
+					"placeholder": "Last Name",
+					"required": true,
+					"name": "last_name",
+					"validation": {
+						"pattern": "^[a-zA-Z]+$",
+						"length": { "min": 3, "max": 20 }
+					}
+				}
+			],
+			{
+				"type": "number",
+				"placeholder": "Age",
+				"required": true,
+				"name": "age",
+				"validation": {
+					"pattern": "^[0-9]+$",
+					"value": { "min": 18, "max": 99 }
+				}
+			}
+		]
+	},
+	{
+		"header": "Describe the type of character you intend to create and role-play.",
+		"input": [
+			{
+				"type": "checkbox",
+				"required": true,
+				"name": "character_type",
+				"options": [
+					{ "label": "Govt. Job", "value": "govt" },
+					{ "label": "Civilian", "value": "civilian" },
+					{ "label": "Gangster", "value": "gangster" },
+					{ "label": "Other", "value": "other", "toggleReason": true }
+				]
+			},
+			{
+				"type": "text",
+				"placeholder": "Explain Your Character (if Other)",
+				"required": false,
+				"name": "character_explanation",
+				"conditional": true,
+				"parent": "character_type"
+			},
+			{
+				"type": "textarea",
+				"placeholder": "Explain your character background story (Min 50 words)",
+				"required": true,
+				"name": "character_background",
+				"validation": {
+					"length": { "min": 50, "max": 500 }
+				}
+			}
+		]
+	},
+	{
+		"header": "Can you use a vehicle to kill someone who killed you before?",
+		"input": [
+			{
+				"type": "radio",
+				"required": true,
+				"name": "vehicle_kill_permission",
+				"options": [
+					{ "label": "Yes", "value": "yes" },
+					{ "label": "No", "value": "no" }
+				]
+			},
+			{
+				"type": "textarea",
+				"placeholder": "Please Write the reason for any of the answer",
+				"required": true,
+				"name": "vehicle_kill_reason"
+			}
+		]
+	},
+	{
+		"header": "Identify the location that is NOT considered a Green Zone.",
+		"input": [
+			{
+				"type": "checkbox",
+				"required": true,
+				"name": "non_green_zone",
+				"options": [
+					{ "label": "Garages", "value": "garage" },
+					{ "label": "Police Department", "value": "police" },
+					{ "label": "Hospital", "value": "hospital" },
+					{ "label": "Companies & Business Areas", "value": "resturant" }
+				]
+			}
+		]
+	},
+	{
+		"header": "Is it permissible for your friend to act as a hostage during a bank heist?",
+		"input": [
+			{
+				"type": "radio",
+				"required": true,
+				"name": "hostage_permission",
+				"options": [
+					{ "label": "Yes", "value": "yes" },
+					{ "label": "No", "value": "no" }
+				]
+			},
+			{
+				"type": "textarea",
+				"placeholder": "Please Write the reason for any of the answer",
+				"required": true,
+				"name": "hostage_reason"
+			}
+		]
+	},
+	{
+		"header": "If someone killed you without any reason and you encounter them again after 15 minutes how would you react?",
+		"input": [
+			{
+				"type": "textarea",
+				"placeholder": "Please Write The Answer Here",
+				"required": true,
+				"name": "reaction_after_kill"
+			}
+		]
+	},
+	{
+		"header": "How you know about Universe RP?",
+		"input": [
+			{
+				"type": "checkbox",
+				"required": true,
+				"name": "source_of_info",
+				"options": [
+					{ "label": "Facebook", "value": "facebook" },
+					{ "label": "Youtube", "value": "youtube" },
+					{ "label": "Instagram", "value": "instagram" },
+					{ "label": "Friend/Relative", "value": "friend" },
+					{ "label": "Others", "value": "other", "toggleReason": true }
+				]
+			},
+			{
+				"type": "text",
+				"placeholder": "Then where?",
+				"required": true,
+				"name": "other_source",
+				"conditional": true,
+				"parent": "source_of_info"
+			}
+		]
+	},
+	{
+		"header": "Introduce yourself and your motive to play on our server! (In Real Life)",
+		"input": [
+			{
+				"type": "textarea",
+				"placeholder": "Please Write The Answer Here",
+				"required": true,
+				"name": "self_introduction"
+			}
+		]
+	}
+]
